@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+# Exploring Web Development for Yong Minds
 
-You can use the [editor on GitHub](https://github.com/wrijugh/web-students/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+In the world of internet Website is the way for us to interact. We use it often. But let us explore the basics of how to build such things. What all thing we need to know exits. My purpose is not to make someone an expert on them but ignite the idea and let them know about these options. That way if interested one would explore further. Developing Web is a lifelong exercise. There are new things we need to learn every now and then. So it is never ending. We need to start somewhere
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Below is the high-level agenda I am planning to cover,
 
-### Markdown
+	- [HTML Basics](html/01html-tags.md) - The heart and soul of Web
+    WIP
+	- CSS Basics [Making Web beautiful]
+	- JavaScripts Basics [Programming for Web]
+	- Github Basics [to collaborate and keep your work safe]
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+At the end of this course you would be able to build a basic website and host in and share among your family and friends. Nothing is more pleasure than looking at your own creation live.
 
-```markdown
-Syntax highlighted code block
+**Pre-requisites**,
 
-# Header 1
-## Header 2
-### Header 3
+	- 8+ years comfortable working with computer like saving files
+	- We will initially use Notepad (Windows) or Edit (Ubuntu Desktop)
+	- Internet 
+	- Microsoft Teams
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+All the resources will be available https://wrijugh.github.io/web-students/
+Github location (raw files) https://github.com/wrijugh/web-students 
 
-**Bold** and _Italic_ and `Code` text
+All communications will be in WhatsApp or email 
+<!-- Join https://chat.whatsapp.com/GgwxcUN8x5YCFQWJ2Rd6jv -->
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wrijugh/web-students/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Current class will start from **13th June 2021 Sunday, 10-11 AM**
