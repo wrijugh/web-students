@@ -4,20 +4,20 @@ In the world of internet Website is the way for us to interact. We use it often.
 
 Below is the high-level agenda I am planning to cover,
 
-	- [HTML Basics](html/html-00-index.md) - The heart and soul of Web
+- [HTML Basics](html/html-00-index.md) - The heart and soul of Web
     WIP
-	- CSS Basics [Making Web beautiful]
-	- JavaScripts Basics [Programming for Web]
-	- Github Basics [to collaborate and keep your work safe]
+- CSS Basics [Making Web beautiful]
+- JavaScripts Basics [Programming for Web]
+- Github Basics [to collaborate and keep your work safe]
 
 At the end of this course you would be able to build a basic website and host in and share among your family and friends. Nothing is more pleasure than looking at your own creation live.
 
 **Pre-requisites**,
 
-	- 8+ years comfortable working with computer like saving files
-	- We will initially use Notepad (Windows) or Edit (Ubuntu Desktop)
-	- Internet 
-	- Microsoft Teams
+- 8+ years comfortable working with computer like saving files
+- We will initially use Notepad (Windows) or Edit (Ubuntu Desktop)
+- Internet
+- Microsoft Teams
 
 
 All the resources will be available https://wrijugh.github.io/web-students/
