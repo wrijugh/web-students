@@ -10,7 +10,7 @@ In the world of internet Website is the way for us to interact. We use it often.
 
 Below is the high-level agenda I am planning to cover,
 
-- [HTML Basics](html/html-00-index.md) - The heart and soul of Web
+- [HTML Basics](html/00-html-day-01.md) - The heart and soul of Web
 - CSS Basics [Making Web beautiful]
 - JavaScripts Basics [Programming for Web]
 - Github Basics [to collaborate and keep your work safe]
