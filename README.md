@@ -4,7 +4,7 @@ Website [https://wrijugh.github.io/web-students/](https://wrijugh.github.io/web-
 
 ## Introduction
 
-After successful **Python** [https://github.com/wrijugh/python-for-kids](https://github.com/wrijugh/python-for-kids) course last year this year (2021) I am thrilled to annouce the **Web** course for beginners. 
+After successful **Python** [https://github.com/wrijugh/python-for-kids](https://github.com/wrijugh/python-for-kids) course last year this year (2021) I am thrilled to annouce the **Web** course for beginners.
 
 <!-- I dedicate this to my father, who was a legendary teacher and lives in the hearts of many thousands of students worldwide. He was a lifelong passionate teacher. *I miss him dearly*. -->
 
@@ -16,12 +16,12 @@ Below is the high-level agenda I am planning to cover,
 
 The heart and soul of Web
 
-- [HTML Day 1](html/00-html-day-01.md) - few basic Tags
-- [HTML Day 2]() - more tags
-- [HTML Day 3]() - input tags
+- [HTML Day 1](html/01-html-day-01.md) - few basic Tags
+- [HTML Day 2](html/02-html-day-02.md) - more tags
+- [HTML Day 3](html/03-html-day-03.md) - input tags
 - [HTML Day 4]() - upcoming
 
-## Upcoming.... 
+## Upcoming
 
 - CSS Basics [Making Web beautiful]
 - JavaScripts Basics [Programming for Web]
