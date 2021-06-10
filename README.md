@@ -18,7 +18,7 @@ The heart and soul of Web
 - [HTML Day 2]() - more tags
 - [HTML Day 3]() - input tags
 - [HTML Day 4]() - upcoming
-- 
+
 ## Upcoming.... 
 
 - CSS Basics [Making Web beautiful]
