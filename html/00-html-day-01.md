@@ -1,7 +1,8 @@
 
-# HTML Basics
+# HTML Basics - Day 1
 
 ## Tags
+
 Tags has opening `<tagName>` and closing `</tagName>`
 
 - Case insensitive `H1` and `h1` are same
@@ -17,25 +18,19 @@ There are sevaral standard Tags,
 |  ...| ...       |
 |  H6 | Heading 6 |
 |  P  | Paragraph |
-|  a  | Link      |
-|  img| Image     |
 |  br | line break|
 | b | bold text |
 | i | italic text |
 | u | underline text |
-| | |
-| | |
-| | |
-| | |
-| | |
-| | |
-| | |
-| | |
-| | |
+| sub | subscript |
+| sup | superscript |
 
 ## Assignment
 
+Open Notepad and save it with .html. After that Open it browser. Keep addind text to the Notepad and refresh your browser by right click or press F5.
+
 Look at the below picture and build an HTML out of it,
 
-IMAGE Placehoder------
+![Assignment #1](assignments/assignment01.png)
 
+We will discuss it in next class.

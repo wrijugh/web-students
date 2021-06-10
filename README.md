@@ -11,7 +11,6 @@ In the world of internet Website is the way for us to interact. We use it often.
 Below is the high-level agenda I am planning to cover,
 
 - [HTML Basics](html/html-00-index.md) - The heart and soul of Web
-### WIP
 - CSS Basics [Making Web beautiful]
 - JavaScripts Basics [Programming for Web]
 - Github Basics [to collaborate and keep your work safe]
@@ -34,6 +33,6 @@ All communications will be in WhatsApp or email (to the closed group)
 
 Current class will start from **13th June 2021 Sunday, 10-11 AM**
 
-## Optional Donation
+## Optional Contribution
 
-This is purly a free activity. But if you are willing to pay, please consider helping for education by buying books, paying loans, developing schools etc of your choice. There will much more powerful gratitude coming to you from the receiver - believe me its very ***powerful***.
+This is purly a free activity. But if you are willing to pay, please consider helping for education by buying books, paying loans, developing schools etc of your choice to someone you feel like. The positive impact on you is powerful - believe me its very ***powerful***.
