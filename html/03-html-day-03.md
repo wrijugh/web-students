@@ -1,12 +1,9 @@
 # HTML Basics - Day 3
 
-## More Tags
+## List and Tables  
 
 | Tag |   Purpose |
 |-----|----------:|
-| `<img>` | adding image |
-| `<video>` | playing video |
-| `<audio>` | playing audio |
 | `<>` | |
 | `<>` | |
 | `<>` | |
@@ -14,7 +11,7 @@
 | `<>` | |
 | `<>` | |
 
-## Assignment #2
+## Assignment #3
 
 ---
 

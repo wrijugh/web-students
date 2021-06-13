@@ -18,8 +18,8 @@ The heart and soul of Web
 
 - [HTML Day 1](html/01-html-day-01.md) - few basic Tags
 - [HTML Day 2](html/02-html-day-02.md) - more tags
-- [HTML Day 3](html/03-html-day-03.md) - input tags
-- [HTML Day 4]() - upcoming
+- [HTML Day 3](html/03-html-day-03.md) - list and tables
+- [HTML Day 4](html/04-html-day-04.md) - input
 
 ## Upcoming
 
@@ -40,11 +40,17 @@ All the resources will be available [https://wrijugh.github.io/web-students/](ht
 
 Github location (raw files) [https://github.com/wrijugh/web-students](https://github.com/wrijugh/web-students)
 
-All communications will be in WhatsApp or email (to the closed group)
-<!-- Join https://chat.whatsapp.com/GgwxcUN8x5YCFQWJ2Rd6jv -->
+<!-- All communications will be in WhatsApp or email (to the closed group)
+Join https://chat.whatsapp.com/GgwxcUN8x5YCFQWJ2Rd6jv 
 
-Current class will start from **13th June 2021 Sunday, 10-11 AM**
+Current class will start from **13th June 2021 Sunday, 10-11 AM**-->
 
 ## Optional Contribution
 
 This is purly a free activity. But if you are willing to pay, please consider helping for education by buying books, paying loans, developing schools etc of your choice to someone you feel like. The positive impact on you is powerful - believe me its very ***powerful***.
+
+## Contact and Support
+
+The actual content is available at [[Github](https://github.com/wrijugh/web-students)](https://github.com/wrijugh/web-students). Contributions are welcome.
+
+Reach out to Wriju at Twitter [https://twitter.com/wrijugh](https://twitter.com/wrijugh) for anything specific.

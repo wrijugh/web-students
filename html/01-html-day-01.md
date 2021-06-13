@@ -8,17 +8,18 @@ Tags has opening `<tagName>` and closing `</tagName>`
 - Case insensitive `H1` and `h1` are same
 - Never leave closing tag like `</p>`
 - Empty tag `<br>` can be used.
+- Commenting `<!--...-->`
 
 There are sevaral standard Tags,
 
 | Tag |   Purpose |
-|-----|----------:|
-|  `<H1>` | Heading 1 |
-|  `<H2>` | Heading 2 |
-|  ...| ...       |
-|  `<H6>` | Heading 6 |
-|  `<P>` | Paragraph |
-|  `<br>` | line break|
+|----|----------:|
+| `<h1>..<h6>` | Heading 1 to 6 |
+| `<h6>` | Heading 6 |
+| `<hr>` | horizontal line |
+| `<p>` | Paragraph |
+| `<pre>` | Pre formatted |
+| `<br>` | line break|
 | `<b>` | bold text |
 | `<i>` | italic text |
 | `<u>` | underline text |
@@ -39,4 +40,4 @@ We will discuss it in next class.
 
 [Home Page](../README.md)
 
-[Next: Day 2 >>](02-html-day02.md)
+[Next: Day 2 >>](02-html-day-02.md)

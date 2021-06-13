@@ -1,12 +1,9 @@
 # HTML Basics - Day 4
 
-## More Tags
+## Input
 
 | Tag |   Purpose |
 |-----|----------:|
-| `<img>` | adding image |
-| `<video>` | playing video |
-| `<audio>` | playing audio |
 | `<>` | |
 | `<>` | |
 | `<>` | |
