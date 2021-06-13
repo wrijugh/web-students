@@ -1,4 +1,4 @@
-# HTML Basics - Day 0
+# CSS Basics - Day 0
 
 ## More Tags
 

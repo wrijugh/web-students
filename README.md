@@ -21,9 +21,17 @@ The heart and soul of Web
 - [HTML Day 3](html/03-html-day-03.md) - list and tables
 - [HTML Day 4](html/04-html-day-04.md) - user inputs
 
-## Upcoming
+## CSS Basics
 
-- CSS Basics [Making Web beautiful]
+Making Web beautiful
+
+- [CSS Day 1]()
+- [CSS Day 2]()
+- [CSS Day 3]()
+- [CSS Day 4]()
+
+---
+
 - JavaScripts Basics [Programming for Web]
 - Github Basics [to collaborate and keep your work safe]
 
@@ -31,9 +39,10 @@ At the end of this course you would be able to build a basic website and host in
 
 **Pre-requisites**,
 
-- 8+ years comfortable working with computer like saving files
+- 8+ years comfortable working with computer, like saving & opening files
 - We will initially use Notepad (Windows) or Edit (Ubuntu Desktop)
-- Internet
+- Internet [Optional]
+- [Visual Studio Code](https://code.visualstudio.com/download) - download and install. Watch this [video](https://www.youtube.com/watch?v=MlIzFUI1QGA)
 - Microsoft Teams (for Live classes)
 
 All the resources will be available [https://wrijugh.github.io/web-students/](https://wrijugh.github.io/web-students/)

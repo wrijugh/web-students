@@ -31,7 +31,8 @@
 
 ## Assignment #2
 
-1. Download a mp4 file (video) from [here](https://file-examples-com.github.io/uploads/2017/04/file_example_MP4_480_1_5MG.mp4) and display in browser from your html.
+-Download a mp4 file (video) from [here](https://file-examples-com.github.io/uploads/2017/04/file_example_MP4_480_1_5MG.mp4) and display in browser from your html.
+
 ---
 
 [Home Page](../README.md)

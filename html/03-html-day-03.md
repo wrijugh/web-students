@@ -12,10 +12,9 @@
 | `<tr>` | row of the `<table>` |
 | `<td>` | cell of a `<tr>` |
 | `<span>` | section like inside `<p>` |
-| `<>` | |
-| `<>` | |
-| `<>` | |
-
+| `<div>` | |
+| `<header>` | |
+| `<footer>` | |
 
 ## List
 
@@ -37,7 +36,7 @@
 </ol>
 ```
 
-## Table 
+## Table
 
 ```html
 <table border="1">
@@ -54,7 +53,6 @@
     </tr>
 </table>
 ```
-
 
 ## Assignment #3
 
