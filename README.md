@@ -19,7 +19,7 @@ The heart and soul of Web
 - [HTML Day 1](html/01-html-day-01.md) - few basic Tags
 - [HTML Day 2](html/02-html-day-02.md) - more tags
 - [HTML Day 3](html/03-html-day-03.md) - list and tables
-- [HTML Day 4](html/04-html-day-04.md) - input
+- [HTML Day 4](html/04-html-day-04.md) - user inputs
 
 ## Upcoming
 

@@ -3,7 +3,7 @@
 ## More Tags
 
 | Tag |   Purpose |
-|-----|----------:|
+|-----|:----------|
 | `<abbr>` | abrreviation |
 | `<address>` | to format the addresss, for line break add `<br>` |
 | `<del>` or `<s>` | strikethrough - to indicate that it has been deleted. |
@@ -12,12 +12,12 @@
 | `<meter>` | value out of `value="4" min="0" max="10"` |
 | `<progress>` | progress `value="30" max="100"` |
 | `<q>` | quote `" "` |
+| `<a>` | link or hyperlink |
+| `<nav>` | links like menu along with `<a>`|
+| `<iframe>` | to open another page within |
 | `<img>` | adding image |
 | `<video>` | playing video |
 | `<audio>` | playing audio |
-| `<>` | |
-| `<>` | |
-| `<>` | |
 
 ### Video Example
 
@@ -31,6 +31,7 @@
 
 ## Assignment #2
 
+1. Download a mp4 file (video) from [here](https://file-examples-com.github.io/uploads/2017/04/file_example_MP4_480_1_5MG.mp4) and display in browser from your html.
 ---
 
 [Home Page](../README.md)

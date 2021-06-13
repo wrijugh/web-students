@@ -13,7 +13,7 @@ Tags has opening `<tagName>` and closing `</tagName>`
 There are sevaral standard Tags,
 
 | Tag |   Purpose |
-|----|----------:|
+|----|:----------|
 | `<h1>..<h6>` | Heading 1 to 6 |
 | `<h6>` | Heading 6 |
 | `<hr>` | horizontal line |
