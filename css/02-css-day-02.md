@@ -42,7 +42,7 @@ Borders - you can have fun with borders. Below sample
 </style>
 ```
 
-## Assignment #2
+## CSS Assignment #2
 
 ---
 

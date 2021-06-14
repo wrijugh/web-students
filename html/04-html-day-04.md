@@ -1,5 +1,7 @@
 # HTML Basics - Day 4
 
+HTML is not just some static texts. You can enter information in HTML page using `<input>` tags.
+
 ## Input tags
 
 | Tag |   Purpose |
@@ -44,4 +46,4 @@
 
 [Home Page](../README.md)
 
-[Next: HTML Day 5 >>](05-html-day05.md)
+[Next: HTML Day 5 >>](05-html-day-05.md)

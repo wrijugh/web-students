@@ -1,5 +1,7 @@
 # HTML Basics - Day 2
 
+Some more tags
+
 ## More Tags
 
 | Tag |   Purpose |
@@ -37,4 +39,4 @@
 
 [Home Page](../README.md)
 
-[Next: HTML Day 3 >>](03-html-day03.md)
+[Next: HTML Day 3 >>](03-html-day-03.md)

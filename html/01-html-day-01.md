@@ -1,5 +1,6 @@
-
 # HTML Basics - Day 1
+
+Some basic tags.
 
 ## Tags
 
@@ -40,4 +41,4 @@ We will discuss it in next class.
 
 [Home Page](../README.md)
 
-[Next: Day 2 >>](02-html-day-02.md)
+[Next: HTML Day 2 >>](02-html-day-02.md)

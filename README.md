@@ -26,9 +26,9 @@ The heart and soul of Web
 
 Making Web beautiful
 
-- [CSS Day 1](css/01-css-day-01.md) - selectors
-- [CSS Day 2](css/02-css-day-02.md) - 
-- [CSS Day 3](css/03-css-day-03.md)
+- [CSS Day 1](css/01-css-day-01.md) - colors & selectors
+- [CSS Day 2](css/02-css-day-02.md) - borders
+- [CSS Day 3](css/03-css-day-03.md) - 
 
 ## JavaScripts Basics
 

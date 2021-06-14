@@ -1,5 +1,7 @@
 # HTML Basics - Day 3
 
+List and table
+
 ## List and Tables  
 
 | Tag |   Purpose |
@@ -54,10 +56,14 @@
 </table>
 ```
 
+> **Note:** Explore `<div>` tag. Div is a modern approach to table.
+
 ## Assignment #3
+
+- Build your class routine in HTML Table.
 
 ---
 
 [Home Page](../README.md)
 
-[Next: HTML Day 4 >>](04-html-day04.md)
+[Next: HTML Day 4 >>](04-html-day-04.md)

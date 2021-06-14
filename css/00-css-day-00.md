@@ -1,7 +1,6 @@
 # CSS Basics - Day 0
 
-
-## CSS Assignment #1
+## CSS Assignment #0
 
 **Work In Progress**
 
