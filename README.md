@@ -28,7 +28,8 @@ Making Web beautiful
 
 - [CSS Day 1](css/01-css-day-01.md) - colors & selectors
 - [CSS Day 2](css/02-css-day-02.md) - borders
-- [CSS Day 3](css/03-css-day-03.md) - 
+- [CSS Day 3](css/03-css-day-03.md) - background color and image
+- [CSS Day 4](css/04-css-day-04.md) - converting simple `<ul>` to Menu
 
 ## JavaScripts Basics
 

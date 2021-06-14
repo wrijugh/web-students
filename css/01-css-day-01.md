@@ -83,7 +83,7 @@ If the above did not have `p.` or `h1.` then it would applied to both `<p>` and 
 
 ## Commenting
 
-Commenting in CSS is done via 
+Commenting in CSS is done via
 
 ```css
 /* commment here  */
@@ -91,7 +91,7 @@ Commenting in CSS is done via
 
 ## External file
 
-CSS styles can come from an external file. 
+CSS styles can come from an external file.
 
 ## CSS Assignment #1
 
