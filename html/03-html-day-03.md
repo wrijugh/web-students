@@ -14,9 +14,9 @@ List and table
 | `<tr>` | row of the `<table>` |
 | `<td>` | cell of a `<tr>` |
 | `<span>` | section like inside `<p>` |
-| `<div>` | |
-| `<header>` | |
-| `<footer>` | |
+| `<div>` | more magic here |
+| `<header>` | for header |
+| `<footer>` | for footer |
 
 ## List
 
@@ -61,6 +61,8 @@ List and table
 ## Assignment #3
 
 - Build your class routine in HTML Table.
+- Make a list of favourite people as List.
+- Make a serial list of grocery items to buy.
 
 ---
 

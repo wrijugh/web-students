@@ -16,10 +16,10 @@ HTML is not just some static texts. You can enter information in HTML page using
 ## Input Type
 
  | Input type |   Purpose |
- |-----|----------:|
- | `<input type="button">` |  |
- | `<input type="checkbox">` |  |
- | `<input type="color">` |  |
+ |-----|:----------|
+ | `<input type="button">` | button |
+ | `<input type="checkbox">` | tick box |
+ | `<input type="color">` | color |
  | `<input type="date">` |  |
  | `<input type="datetime-local">` |  |
  | `<input type="email">` |  |

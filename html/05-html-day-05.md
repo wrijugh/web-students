@@ -1,4 +1,3 @@
-
 # HTML Basics - Day 5
 
 Final structure and putting it all together.
@@ -32,24 +31,20 @@ So far we have been skipping the complete HTML structures. Thanks to the modern 
 You should prevent creating one large html file. Rather should split into multiple files. Let's see how we nagivate between files and sections within a file (bookmark).
 
 ```html
-
+<a href="students.html">Click to go to Student List</a>
 ```
 
 ## Attributes
 
-Tags do come with attributes like `key="value"` inside a tag. They do help provide a lot of information. 
+Tags do come with attributes like `key="value"` inside a tag. They do help provide a lot of information.
 
 ```html
-
+<a href="students.html">Click to go to Student List</a>
 ```
 
 ## Color and formatting
 
-I prefer CSS over any native HTML tag formatting. However, in HTML there are some formatting options available. But personally I would use `style` attribute to introduce formatting.
-
-```html
-
-```
+We will discuss about this in our next class. Stay tuned.
 
 ## HTML Assignments #5
 

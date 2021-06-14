@@ -74,6 +74,6 @@ This is purly a free activity. But if you are willing to pay, please consider he
 
 ## Contact and Support
 
-The actual content is available at [[Github](https://github.com/wrijugh/web-students)](https://github.com/wrijugh/web-students). Contributions are welcome.
+The actual content is available at **Github** - [https://github.com/wrijugh/web-students](https://github.com/wrijugh/web-students). Contributions are welcome.
 
 Reach out to Wriju at Twitter [https://twitter.com/wrijugh](https://twitter.com/wrijugh) for anything specific.
