@@ -20,20 +20,31 @@ The heart and soul of Web
 - [HTML Day 2](html/02-html-day-02.md) - more tags
 - [HTML Day 3](html/03-html-day-03.md) - list and tables
 - [HTML Day 4](html/04-html-day-04.md) - user inputs
+- [HTML Day 5]() - Structure & putting it all together
 
 ## CSS Basics
 
 Making Web beautiful
 
-- [CSS Day 1]()
+- [CSS Day 1](css/01-css-day-01.md) - Selectors
 - [CSS Day 2]()
 - [CSS Day 3]()
 - [CSS Day 4]()
 
----
+## JavaScripts Basics
 
-- JavaScripts Basics [Programming for Web]
-- Github Basics [to collaborate and keep your work safe]
+Programming for Web
+
+- Basics of JavaScript 
+## Github Basics
+
+Embress the OpenSource world by collborating with others. Share and protect your work.
+
+- Creating an account and setting it up
+- Markdown documentation formatting basics
+- Working with local files using VSCode
+
+To collaborate and keep your work safe. Building OpenSource mindset.
 
 At the end of this course you would be able to build a basic website and host in and share among your family and friends. Nothing is more pleasure than looking at your own creation live.
 

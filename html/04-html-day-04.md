@@ -1,6 +1,6 @@
 # HTML Basics - Day 4
 
-## Input
+## Input tags
 
 | Tag |   Purpose |
 |-----|----------:|
