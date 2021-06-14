@@ -1,6 +1,6 @@
 ![HTMLCSSJS](html5-css-js-logo.png)
 
-# Exploring Web Development for Young Minds
+# Website Development for Young Minds
 
 Website [https://wrijugh.github.io/web-students/](https://wrijugh.github.io/web-students/)
 
@@ -51,7 +51,7 @@ To collaborate and keep your work safe. Building OpenSource mindset.
 
 At the end of this course you would be able to build a basic website and host in and share among your family and friends. Nothing is more pleasure than looking at your own creation live.
 
-**Pre-requisites**,
+### Pre-requisites
 
 - 8+ years comfortable working with computer, like saving & opening files
 - We will initially use Notepad (Windows) or Edit (Ubuntu Desktop)
