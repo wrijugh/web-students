@@ -1,16 +1,8 @@
-# CSS Basics - Day 0
+# CSS Basics - Day 3
 
-## More Tags
+**Work In Progress**
 
-| Tag |   Purpose |
-|-----|:----------|
-| `<>` | |
-| `<>` | |
-| `<>` | |
-| `<>` | |
-| `<>` | |
-
-## Assignment #0
+## Assignment #3
 
 ---
 
