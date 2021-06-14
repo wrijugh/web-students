@@ -16,4 +16,4 @@
 
 [Home Page](../README.md)
 
-[Next: Day 0 >>](00-html-day00.md)
+[Next: JavaScript Day 1 >>]()

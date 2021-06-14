@@ -16,26 +16,26 @@ Below is the high-level agenda I am planning to cover,
 
 The heart and soul of Web
 
-- [HTML Day 1](html/01-html-day-01.md) - few basic Tags
+- [HTML Day 1](html/01-html-day-01.md) - few basic tags
 - [HTML Day 2](html/02-html-day-02.md) - more tags
 - [HTML Day 3](html/03-html-day-03.md) - list and tables
 - [HTML Day 4](html/04-html-day-04.md) - user inputs
-- [HTML Day 5]() - Structure & putting it all together
+- [HTML Day 5](html/05-html-day-05.md) - final structure & putting it all together
 
 ## CSS Basics
 
 Making Web beautiful
 
-- [CSS Day 1](css/01-css-day-01.md) - Selectors
-- [CSS Day 2]()
-- [CSS Day 3]()
-- [CSS Day 4]()
+- [CSS Day 1](css/01-css-day-01.md) - selectors
+- [CSS Day 2](css/02-css-day-02.md) - 
+- [CSS Day 3](css/03-css-day-03.md)
 
 ## JavaScripts Basics
 
 Programming for Web
 
-- Basics of JavaScript 
+- [JavaScript Day 1] - Basics of JavaScript
+
 ## Github Basics
 
 Embress the OpenSource world by collborating with others. Share and protect your work.

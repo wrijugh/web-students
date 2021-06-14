@@ -16,4 +16,4 @@
 
 [Home Page](../README.md)
 
-[Next: Day 0 >>](00-html-day00.md)
+[Next: CSS Day 3 >>](03-css-day-03.md)

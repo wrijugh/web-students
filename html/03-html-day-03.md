@@ -60,4 +60,4 @@
 
 [Home Page](../README.md)
 
-[Next: Day 4 >>](04-html-day04.md)
+[Next: HTML Day 4 >>](04-html-day04.md)
