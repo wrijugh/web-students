@@ -9,12 +9,13 @@ So far we have been skipping the complete HTML structures. Thanks to the modern 
 
 ```html
 <!DOCTYPE html>
-<html>
-    <header>
+<html>    
+    <head>
+        <title>Sample Page</title>
         <style>
             /* here add the css */
         </style>
-    </header>
+    </head>
     <body>
         <h1>The Header 1</h1>
         <p>Hello everyone</p>
