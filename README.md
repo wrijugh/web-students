@@ -1,3 +1,5 @@
+![HTMLCSSJS](html5-css-js-logo.png)
+
 # Exploring Web Development for Young Minds
 
 Website [https://wrijugh.github.io/web-students/](https://wrijugh.github.io/web-students/)
