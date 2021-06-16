@@ -1,8 +1,10 @@
-# JavaScript - Day 0
+# JavaScript - Day 3
 
-//
+variables, conditions, alert
 
-## JavaScript Assignment #0
+## JavaScript Assignment #2
+
+- Make a simple addition calculator in JavaScript.
 
 ---
 

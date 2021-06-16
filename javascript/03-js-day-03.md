@@ -1,4 +1,4 @@
-# JavaScript - Day 0
+# JavaScript - Day 3
 
 //
 
@@ -8,4 +8,4 @@
 
 [Home](../README.md)
 
-[Next: JavaScript Day 2 >>]()
+[Next: GitHub Day 1 >>](../github/00-github-day-01.md)
