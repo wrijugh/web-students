@@ -24,6 +24,7 @@ The heart and soul of Web
 - [HTML Day 4](html/04-html-day-04.md) - user inputs
 - [HTML Day 5](html/05-html-day-05.md) - final structure & putting it all together
 
+[Recorded Videos](recorded.md)
 ## CSS Basics
 
 Making Web beautiful
@@ -37,7 +38,9 @@ Making Web beautiful
 
 Programming for Web
 
-- [JavaScript Day 1] - Basics of JavaScript
+- [JavaScript Day 1](javascript/01-js-day-01.md) - changing HTML elements
+- [JavaScript Day 2]
+- [JavaScript Day 3]
 
 ## Github Basics
 
