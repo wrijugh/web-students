@@ -39,8 +39,8 @@ Making Web beautiful
 Programming for Web
 
 - [JavaScript Day 1](javascript/01-js-day-01.md) - changing HTML elements
-- [JavaScript Day 2]
-- [JavaScript Day 3]
+- [JavaScript Day 2](javascript/02-js-day-02.md) - basic programing construct
+- [JavaScript Day 3] - TBD 
 
 ## Github Basics
 
