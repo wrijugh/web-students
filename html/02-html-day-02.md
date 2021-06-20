@@ -41,7 +41,15 @@ Some more tags
 
 ## Assignment #2
 
--Download a mp4 file (video) from [here](https://file-examples-com.github.io/uploads/2017/04/file_example_MP4_480_1_5MG.mp4) and display in browser from your html.
+Sample Audio and Video files.
+- [Audio Download](https://file-examples-com.github.io/uploads/2017/11/file_example_MP3_700KB.mp3)
+- [Download video](https://file-examples-com.github.io/uploads/2017/04/file_example_MP4_480_1_5MG.mp4)
+
+**Task**
+
+- Show the Video is HTML
+- Show the Audio file in HTML
+- List five currencies and their names in Abbreviation style.
 
 ---
 
