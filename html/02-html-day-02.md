@@ -28,7 +28,15 @@ Some more tags
 	<source src="D:\folder\videosample.mp4" type="video/mp4">
 	Can't play video
 </video>
+```
 
+### Audio Sample 
+
+```html
+<audio controls>
+	<source src="audio-sample.mp3" type="audio/mpeg">
+	Your browser doesnot support audio.... 
+</audio> 
 ```
 
 ## Assignment #2
