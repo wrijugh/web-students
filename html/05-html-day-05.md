@@ -42,8 +42,13 @@ Tags do come with attributes like `key="value"` inside a tag. They do help provi
 <a href="students.html">Click to go to Student List</a>
 ```
 
-## HTML Assignments #5
+## HTML Assignment #5
 
+- Since we have created few HTML files already. But we did not add the complete structure. So pickup any previous assignment and complete it with full structures.
+- Put all the three assigment files and make a link from #1 to #2 to #3. You can keep all the three html files in the same folder.
+- Do the above but keep the assignment files in different sub-folders like, 
+
+    ![folder](assignments/assignment05-folders.png) 
 
 ---
 

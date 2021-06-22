@@ -16,7 +16,7 @@ HTML is not just some static texts. You can enter information in HTML page using
 ## Input Type
 
  | Input type |   Purpose |
- |-----|:----------|
+ |------------|:----------|
  | `<input type="button">` | button same as `<button>` |
  | `<input type="checkbox">` | tick box, one or more selection |
  | `<input type="color">` | color picker |
