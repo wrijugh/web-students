@@ -42,10 +42,6 @@ Tags do come with attributes like `key="value"` inside a tag. They do help provi
 <a href="students.html">Click to go to Student List</a>
 ```
 
-## Color and formatting
-
-We will discuss about this in our next class. Stay tuned.
-
 ## HTML Assignments #5
 
 

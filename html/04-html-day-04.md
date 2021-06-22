@@ -5,13 +5,13 @@ HTML is not just some static texts. You can enter information in HTML page using
 ## Input tags
 
 | Tag |   Purpose |
-|-----|----------:|
+|-----|:---------|
 | `<form>` | container for all user input controls |
 | `<input>` | by changing its type attribute, we may have different controls|
 | `<label>` | to know about the input |
 | `<button>` | for Submit, Reset, Save etc|
 | `<textarea>` | Multiple lines of texts. |
-| `<select>` | with `<option>Value</option>` can create a dropdown|
+| `<select>` | with `<option> Value /option>` can create a dropdown|
 
 ## Input Type
 
@@ -38,6 +38,10 @@ HTML is not just some static texts. You can enter information in HTML page using
  | `<input type="week">` | week number picker of an year |
 
 ## Assignment #4
+
+Please come up with a **New Student Registration Form** as below
+
+![sample](assignments/assignment04-form.png)
 
 ---
 

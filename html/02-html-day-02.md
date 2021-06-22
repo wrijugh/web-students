@@ -16,7 +16,7 @@ Some more tags
 | `<q>` | quote `" "` |
 | `<a>` | link or hyperlink |
 | `<nav>` | links like menu along with `<a>`|
-| `<iframe>` | to open another page within |
+| `<iframe>` | to open another page within, chrome will allow only `https` sites. |
 | `<img>` | adding image |
 | `<video>` | playing video |
 | `<audio>` | playing audio |

@@ -8,6 +8,17 @@ Website [https://wrijugh.github.io/web-students/](https://wrijugh.github.io/web-
 
 After successful **Python** [https://github.com/wrijugh/python-for-kids](https://github.com/wrijugh/python-for-kids) course last year this year (2021) I am thrilled to annouce the **Web** course for beginners.
 
+>Dear Parents,
+>
+>There are two very nice websites for Students
+>
+> - https://code.org/
+> - https://codecombat.com/
+>
+> I highly encourage you let them play there. They ignite a lot of interests among the kids. Also this will testify if your kid is really inclided towards programming etc. May be she is an artist, may be an author. Not everyone needs to write applications in this world.
+>
+
+
 <!-- I dedicate this to my father, who was a legendary teacher and lives in the hearts of many thousands of students worldwide. He was a lifelong passionate teacher. *I miss him dearly*. -->
 
 In the world of internet Website is the way for us to interact. We use it often. But let us explore the basics of how to build such things. What all thing we need to know exits. My purpose is not to make someone an expert on them but ignite the idea and let them know about these options. That way if interested one would explore further. Developing Web is a lifelong exercise. There are new things we need to learn every now and then. So it is never ending. We need to start somewhere
