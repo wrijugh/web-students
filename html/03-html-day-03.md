@@ -7,7 +7,7 @@ List and table
 | Tag |   Purpose |
 |-----|:----------|
 | `<ul>` | list unordered - no serial number |
-| `<ol>` | serial numbered list |
+| `<ol>` | serial numbered list, you can also use few attribues to control the sequence (reverse), starting using `start` number etc. |
 | `<li>` | list item to be used inside `<ul>` or `<ol>`|
 | `<table>` | create row column like class routine |
 | `<th>` | header of a `<table>` |
@@ -63,6 +63,7 @@ List and table
 - Build your class routine in HTML Table.
 - Make a list of favourite people as List.
 - Make a serial list of grocery items to buy.
+- Explore few additional tags about table like `<caption>`, `<colgroup>`, `<thead>`, `<tfoot>` and `<tbody>`
 
 ---
 
