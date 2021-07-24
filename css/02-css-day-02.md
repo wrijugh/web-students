@@ -42,7 +42,26 @@ Borders - you can have fun with borders. Below sample
 </style>
 ```
 
+You can also group all the border properties in one line. They follow the clockwise pattern `top` -> `right` -> `botton` -> `left`.
+
+```css
+border-color: orange red green blue;
+```
+
+Is equivalent to,
+
+```css
+border-top-color: orange;
+border-right-color: red;
+border-bottom-color: green;
+border-left-color: blue;
+```
+
+This can be taken for any property which has side specific option like `margin`, `padding` etc.
+
 ## CSS Assignment #2
+
+Please comeup with your own idea to design a page with some html tags. Be creative. Creativity has no limit.
 
 ---
 

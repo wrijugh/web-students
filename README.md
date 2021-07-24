@@ -34,8 +34,10 @@ The heart and soul of Web
 - [HTML Day 3](html/03-html-day-03.md) - list and tables
 - [HTML Day 4](html/04-html-day-04.md) - user inputs
 - [HTML Day 5](html/05-html-day-05.md) - final structure & putting it all together
+- [Markdown Introduction] - another way to format
 
 [Recorded Videos](recorded.md)
+
 ## CSS Basics
 
 Making Web beautiful
@@ -44,6 +46,9 @@ Making Web beautiful
 - [CSS Day 2](css/02-css-day-02.md) - borders
 - [CSS Day 3](css/03-css-day-03.md) - background color and image
 - [CSS Day 4](css/04-css-day-04.md) - converting simple `<ul>` to Menu
+- [CSS Day 5](css/05-css-day-05.md) - box model
+- [CSS Day 6](css/06-css-day-06.md) - flexbox
+- [CSS Day 7](css/07-css-day-07.md) - putting it all together
 
 ## JavaScripts Basics
 
@@ -51,12 +56,21 @@ Programming for Web
 
 - [JavaScript Day 1](javascript/01-js-day-01.md) - changing HTML elements
 - [JavaScript Day 2](javascript/02-js-day-02.md) - basic programing construct
-- [JavaScript Day 3] - TBD 
+- [JavaScript Day 3] - ES6 Modern JavaScript
+- TypeScript, Node.js, React.js etc - way forward
 
-## Github Basics
+## Visual Studio Code Tips
+
+VSCode is the tool for developer. Use it effectively,
+
+- Required Extensions
+- Shotcut keys
+
+## Git and Github
 
 Embress the OpenSource world by collborating with others. Share and protect your work.
 
+- Basics of Git (installing and using locally)
 - Creating an account and setting it up
 - Markdown documentation formatting basics
 - Working with local files using VSCode
@@ -78,9 +92,8 @@ All the resources will be available [https://wrijugh.github.io/web-students/](ht
 Github location (raw files) [https://github.com/wrijugh/web-students](https://github.com/wrijugh/web-students)
 
 <!-- All communications will be in WhatsApp or email (to the closed group)
-Join https://chat.whatsapp.com/GgwxcUN8x5YCFQWJ2Rd6jv 
-
-Current class will start from **13th June 2021 Sunday, 10-11 AM**-->
+Youtube Series - 
+-->
 
 ## Optional Contribution
 

@@ -1,6 +1,6 @@
 # CSS Basics - Day 4
 
-CSS is very powerful. Below example demonstrates how simple list element can be converted to a professional looking menu. 
+CSS is very powerful. Below example demonstrates how simple list element can be converted to a professional looking menu.
 
 ## Evolution of `<ul>` to Navigation Menu
 
@@ -44,4 +44,4 @@ li a:hover {
 
 [Home Page](../README.md)
 
-[Next: JavaScript Day 1 >>](../javascript/01-js-day-01.md)
+[Next: CSS Day 5 >>](05-css-day-04.md)

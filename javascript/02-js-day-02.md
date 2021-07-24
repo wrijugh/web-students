@@ -6,12 +6,29 @@ JavaScript is a programming language. Hence the basic programming language const
 
 ## Variables
 
+Use `let`, `const`, `var` to declare them.
+
+```javascript
+
+```
+
 ## Functions
+
+```javascript
+
+```
 
 ## Operators
 
+```javascript
+
+```
+
 ## Alert
 
+```javascript
+
+```
 
 ## JavaScript Assignment #2
 
