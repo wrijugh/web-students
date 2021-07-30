@@ -2,6 +2,8 @@
 
 Building simple Calculator
 
+![Calculator](Calculator.png)
+
 ```html
 
 <!-- JavaScript Section -->
