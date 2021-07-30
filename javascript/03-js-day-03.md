@@ -4,7 +4,7 @@ Building simple Calculator
 
 ![Calculator](Calculator.png)
 
-```html
+```javascript
 
 <!-- JavaScript Section -->
 <script>
@@ -32,7 +32,9 @@ Building simple Calculator
         document.getElementById("txtResult").value = n;
     }
 </script>
+```
 
+```html
 <!-- HTML  -->
 <h1>Simple Calculator</h1>
 
