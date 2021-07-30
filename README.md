@@ -56,17 +56,20 @@ Programming for Web
 
 - [JavaScript Day 1](javascript/01-js-day-01.md) - changing HTML elements
 - [JavaScript Day 2](javascript/02-js-day-02.md) - basic programing construct
-- [JavaScript Day 3] - ES6 Modern JavaScript
-- TypeScript, Node.js, React.js etc - way forward
+- [JavaScript Day 3](javascript/03-js-day-03.md) - mathematical calculator
+- ES6 or modern JavaScript, TypeScript, NodeJS, ReactJS etc - way forward
 
 ## Visual Studio Code Tips
 
+[If you use this tool]
 VSCode is the tool for developer. Use it effectively,
 
 - Required Extensions
 - Shotcut keys
 
 ## Git and Github
+
+[Optional]
 
 Embress the OpenSource world by collborating with others. Share and protect your work.
 
