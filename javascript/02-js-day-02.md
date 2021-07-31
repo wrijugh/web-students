@@ -1,4 +1,4 @@
-# JavaScript - Day 3
+# JavaScript - Day 2
 
 variables, conditions, alert
 
@@ -37,6 +37,10 @@ SayHello('Wriju');
 ## Operators
 
 ```javascript
++
+-
+* 
+/
 
 ```
 
